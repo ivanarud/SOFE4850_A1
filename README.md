@@ -81,13 +81,13 @@ Fish movement is influenced by random wandering, nearby food particles, the mous
 ## Screenshots
 
 [Insert screenshot of the aquarium during daytime.]
-![alt text](image.png)
+![alt text](Daytime.png)
 
 [Insert screenshot showing fish interacting with food.]
-![alt text](image.png)
+![alt text](Feeding.png)
 
 [Insert screenshot demonstrating nighttime mode.]
-![alt text](image.png)
+![alt text](Nighttime.png)
 
 ## Testing
 
