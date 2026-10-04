@@ -79,28 +79,30 @@ The `PVector` class represents fish positions and velocities.
 Fish movement is influenced by random wandering, nearby food particles, the mouse cursor, and aquarium boundaries.
 
 ## Screenshots
-***Daytime***
+
+**_Daytime_**
 ![alt text](Screenshots/Daytime.png)
 
-***Feeding***
+**_Feeding_**
 ![alt text](Screenshots/Feeding.png)
 
-***Nighttime***
+**_Nighttime_**
 ![alt text](Screenshots/Nighttime.png)
 
 ## Functional testing
--> The application starts without errors.
--> At least 15 fish are visible.
--> Fish move in different directions.
--> Fish avoid the aquarium walls.
--> Clicking creates visible food particles.
--> Fish chase nearby food particles.
--> Food disappears after being eaten.
--> Fish swim away from the mouse cursor.
--> N changes the background colour.
--> P pauses and resumes movement.
--> R resets the aquarium.
--> The application remains responsive during repeated interaction.
+
+[->] The application starts without errors.
+[->] At least 15 fish are visible.
+[->] Fish move in different directions.
+[->] Fish avoid the aquarium walls.
+[->] Clicking creates visible food particles.
+[->] Fish chase nearby food particles.
+[->] Food disappears after being eaten.
+[->] Fish swim away from the mouse cursor.
+[->] N changes the background colour.
+[->] P pauses and resumes movement.
+[->] R resets the aquarium.
+[->] The application remains responsive during repeated interaction.
 
 ## Group Contributions
 
